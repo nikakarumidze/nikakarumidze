@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front-End Dev. Creating applications with React.js, Typescript, Context API, Redux, Material UI, Babylon.JS, Pixi.JS.
+Front-End Engineer. Creating applications with React.js, Typescript, Context API, Redux, Material UI, Babylon.JS, Pixi.JS.
 
 
 ## 🌐 Socials:
@@ -14,8 +14,3 @@ Front-End Dev. Creating applications with React.js, Typescript, Context API, Red
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nikakarumidze&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=nikakarumidze&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
