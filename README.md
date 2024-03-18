@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front-End Engineer. Creating applications with React.js, Typescript, Context API, Redux, Material UI, Babylon.JS, Pixi.JS.
+Software Engineer. Creating applications with Python, React.js, Typescript, Context API, Redux, Material UI, Babylon.JS, Pixi.JS.
 
 
 ## 🌐 Socials:
