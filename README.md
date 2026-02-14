@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer. Creating applications with Python, React.js, Typescript, Context API, Redux, Material UI, Babylon.JS, Pixi.JS.
+Data Proffesional. Creating applications with Python, React.js, Typescript, Context API, Redux, Material UI, Babylon.JS, Pixi.JS.
 
 
 ## 🌐 Socials:
