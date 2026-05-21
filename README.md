@@ -1,5 +1,5 @@
 #  About Me:
-Data Proffesional. Creating applications with Python, React.js, Typescript, Context API, Redux, Material UI, Babylon.JS, Pixi.JS.
+Data Professional. Creating applications with Python, React.js, Typescript, Context API, Redux, Material UI, Babylon.JS, Pixi.JS.
 
 
 ## 🌐 Socials:
